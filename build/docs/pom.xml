@@ -8,7 +8,7 @@
   </parent>
   <artifactId>arquillian-cube-build-docs</artifactId>
   <packaging>pom</packaging>
-  <name>Arquillian Cube: Documentation</name>
+  <name>Arquillian Cube: Build documentation</name>
 
   <properties>
     <project.root.dir>${basedir}/../..</project.root.dir>
